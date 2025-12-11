@@ -9,7 +9,7 @@ links:
   - title: Xeron
     description: Flow with life.
     website: https://blog.040304.xyz
-    image: /hsrv.png
+    image: "/hsrv.png"
 
 menu:
     main: 
