@@ -2,7 +2,7 @@
 title: "Java文件上传中的Stream Closed问题"
 description: "Java不安desu"
 date: 2025-12-25T22:47:00+08:00
-image: "yrlv.jpg"  
+image: "huiye.jpg"  
 draft: false         
 categories:
     - "Java"
